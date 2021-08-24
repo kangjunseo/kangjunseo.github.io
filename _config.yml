@@ -102,14 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "Junseo Kang"
-  avatar           : "/Users/kangjunseo/Desktop/1.jpeg"
+  avatar           : #
   bio              : "Algorithm / DataBase / Machine Learing"
   location         : "Hanyang University"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "kji98765@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kangjunseo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/kangjunseo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
