@@ -20,7 +20,7 @@ title                    : "KJS Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junseo Kang"
-description              : "An amazing website."
+description              : "Studying CS."
 url                      : "https://kangjunseo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
